@@ -2,7 +2,7 @@
 
 Machine Learning course project by **Kacper Kwak**.
 
-> **Quick preview without running code:** The complete, rendered report (in Polish) is included directly in the repository as `projekt.html`. You can simply download `projekt.html` and open it in any web browser-there is no need to clone the entire repository, download the dataset, or re-run the Quarto build to view all analyses, interactive plots, and results.
+> **Quick preview without running code:** The complete, rendered report (in Polish) is available for direct download in the **[Releases](../../releases)** section on the right (`Speed_Dating_ML.html`). You can download it and open it in any web browser—there is no need to clone the repository, download the dataset, or re-run the Quarto build to view all analyses, interactive plots, and results.
 
 ## Overview & Dataset
 
