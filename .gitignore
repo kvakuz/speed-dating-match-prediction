@@ -1,0 +1,9 @@
+data/*.csv
+data/*.doc
+*_files/
+.quarto/
+*.quarto_ipynb
+render.log
+time.log
+.DS_Store
+projekt.html
